@@ -394,4 +394,7 @@
     <integer name="config_proximityCheckTimeout">250</integer>
     <bool name="config_proximityCheckOnWakeEnabledByDefault">false</bool>
 
+    <!-- Bool whether to show Hardware keys settings in WolvesDen -->
+    <bool name="config_showHwKeys">true</bool>
+
 </resources>
