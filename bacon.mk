@@ -71,13 +71,6 @@ PRODUCT_PACKAGES += \
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
 
-# Camera
-PRODUCT_PACKAGES += \
-    android.hardware.camera.provider@2.4-impl \
-    camera.device@1.0-impl \
-    camera.bacon \
-    libshim_camera \
-
 # Charger
 PRODUCT_PACKAGES += \
     charger_res_images
