@@ -13,6 +13,7 @@ ro.qualcomm.cabl=0
 camera2.portability.force_api=1
 media.stagefright.legacyencoder=true
 media.stagefright.less-secure=true
+camera.disable_treble=true
 
 # Display
 ro.sf.lcd_density=420
