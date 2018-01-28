@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "ValidusOs-Devices/device_oneplus_bacon",
+    "target_path": "device/oneplus/bacon",
+    "branch": "8.1"
+  },
+  {
+    "repository": "BigTopKrazies/vendor_oneplus_bacon",
+    "target_path": "vendor/oneplus",
+    "branch": "8.1"
+  },
+  {
+    "repository": "BigTopKrazies/vendor_oppo_msm8974-common",
+    "target_path": "vendor/oppo",
+    "branch": "8.1"
+  },
+  {
+    "repository": "GZR-Kernels/android_kernel_oppo_msm8974",
+    "target_path": "kernel/oppo/msm8974",
+    "branch": "lineage-15.1"
+  },
+  {
+    "repository": "ValidusOs-Devices/android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch": "lineage-15.1"
+  },
+  {
+    "repository": "ValidusOs-Devices/android_device_oppo_msm8974-common",
+    "target_path": "device/oppo/msm8974-common",
+    "branch": "lineage-15.1"
+  }
+]
