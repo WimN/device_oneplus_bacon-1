@@ -28,5 +28,15 @@
     "repository": "ValidusOs-Devices/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
     "branch": "lineage-15.1"
-  }
+            @@ -28,5 +28,10 @@
+  28   28      "repository": "ValidusOs-Devices/android_device_oppo_msm8974-common",
+  29   29      "target_path": "device/oppo/msm8974-common",
+  30   30      "branch": "lineage-15.1"
+       31 +  },
+       32 +  {
+       33 +    "repository": "LineageOS/android_packages_resources_devicesettings",
+       34 +    "target_path": "packages/resources/devicesettings",
+       35 +    "branch": "lineage-15.0"
+  31   36    }
+  32   37  ]
 ]
