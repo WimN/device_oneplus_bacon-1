@@ -1,7 +1,7 @@
 [
   {
-    "repository": "ValidusOs-Devices/device_oneplus_bacon-1",
-    "target_path": "device/oneplus/bacon-1",
+    "repository": "WimN/device_oneplus_bacon-1",
+    "target_path": "device/oneplus/bacon",
     "branch": "8.1"
   },
   {
