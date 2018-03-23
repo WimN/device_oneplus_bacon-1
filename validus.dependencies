@@ -15,7 +15,7 @@
     "branch": "8.1"
   },
   {
-    "repository": "WimBacon/android_kernel_oppo_msm8974",
+    "repository": "Validus-6/android_kernel_oppo_msm8974",
     "target_path": "kernel/oppo/msm8974",
     "branch": "lineage-15.1"
   },
@@ -25,7 +25,7 @@
     "branch": "lineage-15.1"
   },
   {
-    "repository": "WimBacon/android_device_oppo_msm8974-common",
+    "repository": "Validus-6/android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common",
     "branch": "lineage-15.1"
   }
