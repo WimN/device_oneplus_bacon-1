@@ -35,13 +35,13 @@
     "branch": "lineage-15.0"
   },
   {
-"repository": "TheMuppets/proprietary_vendor_oneplus",
-"target_path": "vendor/oneplus",
-"branch": "Lineage-15.1"
-},
-{
-"repository": "TheMuppets/proprietary_vendor_oppo",
-"target_path": "vendor/oppo",
-"branch": "Lineage-15.1"
-}
+  "repository": "TheMuppets/proprietary_vendor_oneplus",
+  "target_path": "vendor/oneplus",
+  "branch": "Lineage-15.1"
+  },
+  {
+  "repository": "TheMuppets/proprietary_vendor_oppo",
+  "target_path": "vendor/oppo",
+  "branch": "Lineage-15.1"
+  }
 ]
