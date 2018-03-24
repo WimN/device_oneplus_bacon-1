@@ -5,16 +5,6 @@
     "branch": "8.1"
   },
   {
-    "repository": "BigTopKrazies/vendor_oneplus_bacon",
-    "target_path": "vendor/oneplus",
-    "branch": "8.1"
-  },
-  {
-    "repository": "BigTopKrazies/vendor_oppo_msm8974-common",
-    "target_path": "vendor/oppo",
-    "branch": "8.1"
-  },
-  {
     "repository": "Validus-6/android_kernel_oppo_msm8974",
     "target_path": "kernel/oppo/msm8974",
     "branch": "lineage-15.1"
